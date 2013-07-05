@@ -1,0 +1,15 @@
+{
+    "name":"RubikCubeSolver",
+    "description": "It solves the 3x3 rubik's cube!",
+    "version":"0.1.0-b",
+    "scripts":{
+        "start":"node app"
+    },
+    "dependencies":{
+        "colors": "*"
+    },
+    "engines":{
+        "node":"0.10.1",
+        "npm":"1.2.12"
+    }
+}

@@ -1,0 +1,12 @@
+exports.S1 = "s1";
+exports.S1_INVERSE = "s1!";
+exports.S2 = "s2";
+exports.S2_INVERSE = "s2!";
+exports.S3 = "s3";
+exports.S3_INVERSE = "s3!";
+exports.S4 = "s4";
+exports.S4_INVERSE = "s4!";
+exports.S5 = "s5";
+exports.S5_INVERSE = "s5!";
+exports.S6 = "s6";
+exports.S6_INVERSE = "s6!";
