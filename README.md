@@ -1,3 +1,6 @@
+Status: Unstable. Not complete. Work in progress...
+
+
 node-rubik-cube-solver
 ======================
 
